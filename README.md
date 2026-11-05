@@ -24,6 +24,8 @@ Project Structure:
     business-dashboard/
     │
     ├── assets/
+    │   └──dashboard.png
+    │    
     ├── data/
     │   └── ventas.csv
     │
@@ -57,6 +59,7 @@ Future Improvements
 Author
     Jair Samuel Guerrero Loor
     Computer Engineering Student - ESPOL
+
 Areas of Interest:
     Artificial Intelligence
     Data Analytics
